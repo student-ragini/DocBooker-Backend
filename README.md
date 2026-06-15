@@ -37,8 +37,10 @@ CLOUDINARY_API_KEY=cloudinary_api
 CLOUDINARY_API_SECRET=cloudinary_secret
 
 Installation:
+
 npm install
 npm start
 
-Author
+Author:
+
 Ragini Kumari
